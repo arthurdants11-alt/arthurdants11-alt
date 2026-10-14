@@ -8,8 +8,7 @@ Busco uma oportunidade para crescer profissionalmente, aprender e contribuir com
 
 ----------------------------------------------------------------------------------
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
           
 
 
